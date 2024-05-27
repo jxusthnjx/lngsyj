@@ -1,15 +1,15 @@
 # Configurations
 title:            王先海个人网站
-longtitle:        Jekyll Gitbook
+longtitle:        王先海个人网站
 author:           王先海
-email:            sighingnow@gmail.com
+email:            jxusthnjx@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
+url:              'https://jxusthnjx.github.io'
 baseurl:          '/'
 rss:              RSS
 
