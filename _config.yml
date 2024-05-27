@@ -1,16 +1,16 @@
 # Configurations
-title:            王先海个人网站
-longtitle:        王先海个人网站
+title:            王先海个人笔记
+longtitle:        王先海学习笔记网站
 author:           王先海
 email:            jxusthnjx@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  记录和分享教学中值得分享的内容.
 
 version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://jxusthnjx.github.io'
-baseurl:          '/'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself

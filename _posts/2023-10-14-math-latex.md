@@ -2,7 +2,7 @@
 title: MathJax and LaTeX
 author: Tao He
 date: 2023-10-14
-category: Jekyll
+category: Jekyll11
 layout: post
 mermaid: true
 ---
