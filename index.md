@@ -178,7 +178,7 @@ entries:
   product: Jekyll Doc Theme
   version: 6.0
   folders:
-  - title: Overview
+  - title: 概述
     output: web, pdf
     folderitems:
 
@@ -245,13 +245,13 @@ entries:
   product: Jekyll Doc Theme
   version: 6.0
   folders:
-  - title: Overview
+  - title: 概述
     output: web, pdf
     folderitems:
 
     -
 
-  - title: Release Notes
+  - title: 数据分析
     output: web, pdf
     folderitems:
 
@@ -263,7 +263,7 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: Installation
+  - title: 动画制作
     output: web, pdf
     folderitems:
 
