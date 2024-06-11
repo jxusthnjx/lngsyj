@@ -1,16 +1,16 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: 主页
   url: ""
 
-- title: About
+- title: 文章
   url: "about/"
 
-- title: Contact
+- title: 视频
   url: "contact/"
 
-- title: Get this theme  
+- title: 成果展示
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
@@ -18,15 +18,15 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: 主页
   url: ""
 
-- title: Privacy Policy
+- title: 成员介绍
   url: "privacy-policy/"
 
-- title: Contact
+- title: 联系我们
   url: "contact/"
 
-- title: Download
+- title: 结题报告
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
   external: true
