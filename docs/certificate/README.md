@@ -108,5 +108,5 @@
 18. 《网络直播营销管理办法 试行.》 相关知识。
 
 ## 工作要求
-![工作要求1](/docs/certificate/pic/20250104001.png)
-![工作要求2](/docs/certificate/pic/20250104002.png)
+![工作要求1](certificate/pic/20250104001.png)
+![工作要求2](certificate/pic/20250104002.png)
