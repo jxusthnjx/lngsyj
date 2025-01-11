@@ -8,5 +8,5 @@
 - 重点难点,轻松掌握
 - 点滴积累,伴你成长
 
-[数据分析](dataanalysis/)
+[AIGC](aigc/)
 [高级考证](certificate/)
