@@ -8,5 +8,5 @@
 - 重点难点,轻松掌握
 - 点滴积累,伴你成长
 
-[AIGC](aigc/)
+[短视频制作](premiere/)
 [高级考证](certificate/)
