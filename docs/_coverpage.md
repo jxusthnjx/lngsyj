@@ -8,4 +8,4 @@
 - 计算机教研组
 
 [短视频制作](premiere/)
-[高级考证](certificate/)
+[电商考证](certificate/)
